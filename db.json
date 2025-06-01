@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Alice",
+      "email": "alice@example.com",
+      "age": 25,
+      "city": "Moscow"
+    },
+    {
+      "id": "2",
+      "name": "Bob",
+      "email": "bob@example.com",
+      "age": 30,
+      "city": "London"
+    },
+    {
+      "id": "3",
+      "name": "Charlie",
+      "email": "charlie@example.com",
+      "age": 22,
+      "city": "Berlin"
+    },
+    {
+      "id": "4",
+      "name": "David",
+      "email": "david@example.com",
+      "age": 28,
+      "city": "Paris"
+    },
+    {
+      "id": "5",
+      "name": "Eva",
+      "email": "eva@example.com",
+      "age": 27,
+      "city": "Rome"
+    },
+    {
+      "id": "32f6",
+      "name": "Виктория",
+      "email": "wwwvifil26@mail.ru",
+      "age": "14",
+      "city": "Санкт-Петербург",
+      "country": "Россия"
+    }
+  ]
+}
